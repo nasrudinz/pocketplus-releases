@@ -1,0 +1,25 @@
+Pocket+ — Freeware License
+
+Copyright (c) 2026 nasrudinz. All rights reserved.
+
+Pocket+ is free to download and use, for personal or commercial purposes.
+
+You may:
+  - install and use Pocket+ on any number of computers;
+  - share the official download link or the unmodified installer, free of charge.
+
+You may not:
+  - sell Pocket+, or bundle it with something you sell;
+  - modify, decompile or reverse engineer it, except where the law allows;
+  - publish modified installers or claim the software as your own.
+
+Third-party components keep their own licenses (listed in the app under About):
+Tauri (MIT/Apache-2.0), React (MIT), Noto Sans Thai and Noto Sans Mono (OFL-1.1).
+Android SDK Platform-Tools and scrcpy are downloaded from their official sources
+only after you agree, and are not included in the installer.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY
+ARISING FROM THE USE OF THE SOFTWARE, INCLUDING CHANGES MADE TO A DEVICE THROUGH IT.
+
+Pocket+ is not affiliated with, endorsed by or sponsored by Samsung, au/KDDI or Google.
